@@ -6,6 +6,8 @@ This repo contains a several projects in Java for study and show as Portfolio. T
 
 Project: Operations with banking account.
 ![1](https://github.com/BrunoGianetti/MyJavaProjects/assets/55636879/1ce1452a-fb04-4e5a-9881-0890b13504b7)
+
+Output of the block above.
 ![out](https://github.com/BrunoGianetti/MyJavaProjects/assets/55636879/059f0360-6f0c-4aca-b06f-e92dc48bd17e)
 
 ## The current projects in this repo are:
