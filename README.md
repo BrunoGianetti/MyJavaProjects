@@ -5,9 +5,11 @@
 This repo contains a several projects in Java for study and show as Portfolio. The images below can ilustrate a example of many projects that will incrise in time.
 
 Project: Operations with banking account.
+
 ![1](https://github.com/BrunoGianetti/MyJavaProjects/assets/55636879/1ce1452a-fb04-4e5a-9881-0890b13504b7)
 
 Output of the block above.
+
 ![out](https://github.com/BrunoGianetti/MyJavaProjects/assets/55636879/059f0360-6f0c-4aca-b06f-e92dc48bd17e)
 
 ## The current projects in this repo are:
@@ -24,7 +26,7 @@ The Tech Recruiter or Student can navigate into folders and search for .py, .png
 ## Technologys and Status Repo
 
 
-<img src="https://img.shields.io/badge/Language-Python-blue"> <img src="https://img.shields.io/badge/Status-always%20under%20construction-yellow"> <img src="https://img.shields.io/github/downloads/brunogianetti/DataSciencePortfolio/total?style=plastic"> 
+<img src="https://img.shields.io/badge/Language-Java-blue"> <img src="https://img.shields.io/badge/Status-always%20under%20construction-yellow"> <img src="https://img.shields.io/github/downloads/brunogianetti/DataSciencePortfolio/total?style=plastic"> 
 
 ## Author
 
