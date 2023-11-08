@@ -17,6 +17,8 @@ Output of the block above.
 | Name | Description |
 |--- |---|
 | Banking Account | A basics sintatics for training and learning Java |
+| Screen Match | An aplication for a movies on demand |
+| Minhas Músicas | An aplication for a musics on demand |
 
 
 ## How to use this repo
