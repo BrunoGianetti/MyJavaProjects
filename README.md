@@ -19,7 +19,7 @@ Output of the block above.
 | Banking Account | A basics sintatics for training and learning Java |
 | Screen Match | An aplication for a movies on demand |
 | Minhas Músicas | An aplication for a musics on demand |
-| Buscador | Search adress throuhgout API request |
+| Buscador | Search adress through API request |
 
 
 ## How to use this repo
